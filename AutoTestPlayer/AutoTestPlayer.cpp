@@ -1,9 +1,10 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "..\TestPlayerMain\player.h"
+#include "..\TestPlayerMain\player.cpp"
 #include <string>
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
+using namespace std;
 
 namespace AutoTestPlayer
 {
