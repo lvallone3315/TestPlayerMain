@@ -1,0 +1,19 @@
+﻿'TestPlayerMain.exe' (Win32): Loaded 'C:\Users\lvall\source\repos\TestPlayerMain\Debug\TestPlayerMain.exe'. Symbols loaded.
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4b54 has exited with code 0 (0x0).
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'TestPlayerMain.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x71e8 has exited with code 0 (0x0).
+The thread 0x18e8 has exited with code 0 (0x0).
+The thread 0x1fbc has exited with code 0 (0x0).
+The program '[17384] TestPlayerMain.exe' has exited with code 0 (0x0).
